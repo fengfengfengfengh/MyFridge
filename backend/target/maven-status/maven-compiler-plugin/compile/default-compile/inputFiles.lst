@@ -1,0 +1,9 @@
+D:\MyFridge\backend\src\main\java\com\myfridge\entity\Note.java
+D:\MyFridge\backend\src\main\java\com\myfridge\controller\FridgeStatusController.java
+D:\MyFridge\backend\src\main\java\com\myfridge\repository\NoteRepository.java
+D:\MyFridge\backend\src\main\java\com\myfridge\service\NoteService.java
+D:\MyFridge\backend\src\main\java\com\myfridge\MyFridgeApplication.java
+D:\MyFridge\backend\src\main\java\com\myfridge\repository\FridgeStatusRepository.java
+D:\MyFridge\backend\src\main\java\com\myfridge\entity\FridgeStatus.java
+D:\MyFridge\backend\src\main\java\com\myfridge\service\FridgeStatusService.java
+D:\MyFridge\backend\src\main\java\com\myfridge\controller\NoteController.java

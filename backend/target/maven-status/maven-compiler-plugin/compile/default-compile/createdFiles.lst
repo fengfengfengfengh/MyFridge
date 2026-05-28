@@ -1,0 +1,12 @@
+com\myfridge\service\FridgeStatusService.class
+com\myfridge\entity\Note.class
+com\myfridge\entity\FridgeStatus$FridgeStatusBuilder.class
+com\myfridge\service\NoteService.class
+com\myfridge\repository\FridgeStatusRepository.class
+com\myfridge\controller\FridgeStatusController.class
+com\myfridge\MyFridgeApplication$1.class
+com\myfridge\MyFridgeApplication.class
+com\myfridge\entity\FridgeStatus.class
+com\myfridge\repository\NoteRepository.class
+com\myfridge\controller\NoteController.class
+com\myfridge\entity\Note$NoteBuilder.class
